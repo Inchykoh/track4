@@ -1,5 +1,5 @@
 import sys
 import time
 
-print("hello incey")
+print("Good fuking day lee yee loon")
 
